@@ -1,3 +1,0 @@
-tArray {
-//     Student studentObject;
-// };
